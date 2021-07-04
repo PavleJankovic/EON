@@ -1,6 +1,6 @@
 ### QA zadatak ###
 
-Ovom zadatku sam pristuo kao manuelnom testiranju, bez alata poput Postmana zbog nedostatka parametara/endpointa, koje sam pronašao kroz developer tools, ali nisam mogao da ih iskoristim, pošto sam za kredencijale pavle.jankovic dobio grešku 401 - unauthorized, uz poruku: "Full authentication is required to access this resource". Takodje, token koji sam pronašao jer bio jednokratan i validan samo za komandu koju bih prvo napravio kroz browser.
+Ovom zadatku sam pristuo kao manuelnom testiranju, bez alata poput Postmana zbog nedostatka parametara/endpointa, koje sam pronašao kroz developer tools, ali nisam mogao da ih iskoristim, pošto sam za kredencijale pavle.jankovic dobio grešku 401 - unauthorized, uz poruku: "Full authentication is required to access this resource". Takodje, token koji sam pronašao je bio jednokratan i validan samo za komandu koju bih prvo napravio kroz browser.
 
 
 
